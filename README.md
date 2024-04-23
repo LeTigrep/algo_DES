@@ -4,7 +4,7 @@
 
 Le but de ce projet était de simplifier l’algorithme de chiffrement des données (DES) mais aussi d'implémenter une version en 64 bits. 
 J'ai réalisé ce projet dans le cadre de notre cours de
-Sécurité et Théorie de l’Information (M1) avec deux autres camarades. Notre principal objectif était de créer
+Sécurité et Théorie de l’Information en M1 informatique avec deux autres camarades. Notre principal objectif était de créer
 une version simplifiée de l’algorithme DES en utilisant des opérations sur les bits
 en langage Python.
 
